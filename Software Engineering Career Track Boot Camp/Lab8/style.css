@@ -1,0 +1,56 @@
+body{
+  background-image: url(userimg.png);
+}
+h1, h2, h3{
+  background-color: gray;
+  opacity: 80%;
+}
+
+.hd{
+  background-color: red;
+  opacity: 50%;
+  color pink;
+  width:
+  text-align: left;
+
+}
+
+
+div{
+  background-color: yellow;
+  border: 10 px;
+  border-color: green;
+  border-style: dashed;
+  width: 250px;
+  position: relative;
+  right: -300px;
+  bottom: 650px;
+
+}
+
+.first{
+  color: crimson;
+  family-font: "Courier New", Courier, monospace;
+  background-color: seashell;
+  opacity: 50%;;
+
+}
+
+#mama{
+  font-style: italic;
+  font-family: "Tangerine", fantasy;
+
+}
+
+#papa{
+  backgorund-color: turquoise;
+  border:5px;
+  border-color: blue;
+  border-style: double;
+  border-radius: 100%;
+  width: 50px;
+  position: fixed;
+  left: 75%;
+  top: 15%;
+  text-align: 
+}
